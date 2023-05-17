@@ -2,7 +2,6 @@
     background-color: #E9F1E3;
 }
 .card-btn{
-    width: 350px;
     font-weight: 400;
     font-size: 20px;
     padding: 20px 50px;
@@ -24,3 +23,14 @@
     transform: scale(1.2);
     cursor: pointer;
 }
+
+@media only screen and (max-width: 385px) {
+    .card-btn {
+      width: 275px;
+    }
+  }
+/* @media only screen and (max-width: 992px) {
+    .card-btn {
+      width: 340px;
+    }
+  } */

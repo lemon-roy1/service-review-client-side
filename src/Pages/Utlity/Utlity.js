@@ -5,7 +5,7 @@ const Utiliti = (user) => {
     const currentUser = {
         email: user.email
     }
-    //  jwt token
+    // get jwt token
     fetch('https://y-swart-three.vercel.app/jwt', {
         method: 'POST',
         headers: {
