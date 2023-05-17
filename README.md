@@ -3,6 +3,8 @@
 
  HTML, CSS, JS, JSX
 
+
+live link :https://bright-lolly-a047dc.netlify.app/
 frmwork : daisyui ,tailwind css
 icon: https://react-icons.github.io/react-icons/
 react-scripts :https://www.npmjs.com/package/react-scripts
